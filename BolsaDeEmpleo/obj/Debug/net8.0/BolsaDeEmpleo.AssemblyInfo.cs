@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BolsaDeEmpleo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1a42fd13f1ae6449f05a865d1f278007a5c48c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b0c57fccbee11f7807b63fcf775f1ac3f34b0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BolsaDeEmpleo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BolsaDeEmpleo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
