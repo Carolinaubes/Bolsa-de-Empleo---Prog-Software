@@ -1,4 +1,4 @@
-﻿namespace BolsaDeEmpleoPRUEBAGIT
+﻿namespace BolsaDeEmpleo
 {
     //Clase Empresas
     public class Empresas
