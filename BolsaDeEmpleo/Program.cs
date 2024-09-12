@@ -1,5 +1,12 @@
 ﻿namespace BolsaDeEmpleo
 {
+    //Conexion SQL 
+    public class Conexion_Basica
+    {
+        private string string_conexion = "server=DESKTOP-D1091LH\\DEV;database=db_facturas;IntegratedSecurity=True;TrustServer=True";
+    }
+
+
     //Clase Empresas
     public class Empresas
     {
